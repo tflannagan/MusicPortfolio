@@ -7,28 +7,28 @@ function Contact() {
       <h2>Connect with me...</h2>
       <div className="social-icons">
         <a
-          href="https://www.facebook.com/yourusername"
+          href="https://github.com/tflannagan"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-facebook-f"></i>
+          <i className="fab fa-github"></i>
         </a>
         <a
-          href="https://www.twitter.com/yourusername"
+          href="https://twitter.com/o_igniculus"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-twitter"></i>
         </a>
         <a
-          href="https://www.instagram.com/yourusername"
+          href="https://www.instagram.com/o_igniculus/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-instagram"></i>
         </a>
         <a
-          href="https://www.soundcloud.com/yourusername"
+          href="https://soundcloud.com/igniculus_o"
           target="_blank"
           rel="noopener noreferrer"
         >
