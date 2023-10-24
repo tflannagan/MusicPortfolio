@@ -8,7 +8,7 @@ function Navbar() {
       <div className="nav-logo">
         <a href="https://soundcloud.com/igniculus_o">
           {" "}
-          <img src={Logo} />
+          <img src={Logo} alt="img" />
         </a>
       </div>
       <ul className="nav-links">
