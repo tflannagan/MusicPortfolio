@@ -9,6 +9,15 @@
   background-color: #333;
 }
 
+.nav-logo a {
+  text-decoration: none;
+}
+
+.nav-logo img {
+  max-width: 2.5rem;
+  border-radius: 50%;
+}
+
 .nav-logo {
   font-size: 24px;
   font-weight: bold;
