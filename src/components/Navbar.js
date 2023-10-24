@@ -13,7 +13,7 @@ function Navbar() {
           <a href="#songs">Songs</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Connect</a>
         </li>
       </ul>
     </nav>

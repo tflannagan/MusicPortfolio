@@ -1,7 +1,8 @@
 body {
   background-color: #121212; /* Dark background */
   color: #ffffff; /* White text */
-  font-family: 'Arial', sans-serif;
+  font-family: 'Cutive Mono', monospace;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 /* Add more global styles and media queries as needed */
