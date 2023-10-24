@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3196154.css",
-    "main.js": "/static/js/main.556d1cc8.js",
-    "static/js/787.c0c9a703.chunk.js": "/static/js/787.c0c9a703.chunk.js",
-    "static/media/avatar.png": "/static/media/avatar.cfd1d1ff4beff9f4f093.png",
-    "index.html": "/index.html",
-    "main.a3196154.css.map": "/static/css/main.a3196154.css.map",
-    "main.556d1cc8.js.map": "/static/js/main.556d1cc8.js.map",
-    "787.c0c9a703.chunk.js.map": "/static/js/787.c0c9a703.chunk.js.map"
+    "main.css": "/MusicPortfolio/static/css/main.a3196154.css",
+    "main.js": "/MusicPortfolio/static/js/main.2d98cd43.js",
+    "static/js/787.c0c9a703.chunk.js": "/MusicPortfolio/static/js/787.c0c9a703.chunk.js",
+    "static/media/avatar.png": "/MusicPortfolio/static/media/avatar.cfd1d1ff4beff9f4f093.png",
+    "index.html": "/MusicPortfolio/index.html",
+    "main.a3196154.css.map": "/MusicPortfolio/static/css/main.a3196154.css.map",
+    "main.2d98cd43.js.map": "/MusicPortfolio/static/js/main.2d98cd43.js.map",
+    "787.c0c9a703.chunk.js.map": "/MusicPortfolio/static/js/787.c0c9a703.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3196154.css",
-    "static/js/main.556d1cc8.js"
+    "static/js/main.2d98cd43.js"
   ]
 }
