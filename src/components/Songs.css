@@ -1,0 +1,28 @@
+.songs-section {
+  padding: 50px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  
+  height: 100%;
+}
+
+
+
+/* Style for the h2 title */
+.songs-section h2 {
+  font-size: 48px;
+  margin-bottom: 30px;
+  text-align: center; /* This will center the text horizontally */
+}
+
+.songs-title {
+  font-size: 408px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.song {
+  margin-bottom: 30px;
+}
+
